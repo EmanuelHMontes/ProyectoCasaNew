@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="casa">
+    <file>Habitacion.jpg</file>
+    <file>habitaciona.jpg</file>
+    <file>garage.jpg</file>
+    <file>garage-interior-realistic-composition_1284-25624-3233083823.jpg</file>
+    <file>pngtree-underground-parking-garage-with-a-lot-of-cars-underground-parking-image_1607320-150363650.jpg</file>
+    <file>sala.jpg</file>
+    <file>839568-1114840436.jpg</file>
+    <file>casa2.jpg</file>
+    <file>1920_1080_20100330123316352925-2546517375.jpg</file>
+    <file>casa real.jpg</file>
+    <file>Casain.jpg</file>
+  </qresource>
+</RCC>
